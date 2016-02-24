@@ -1,2 +1,3 @@
 # sitinmgtsystem
-Sit-in Management System
+
+Create sitinmanagement system db import sitinmanagementsystem.sql.zip
